@@ -684,7 +684,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mayfly/proprietary/vendor/firmware/vpu20_4v.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.b19 \
     vendor/xiaomi/mayfly/proprietary/vendor/firmware/vpu20_4v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.mbn \
     vendor/xiaomi/mayfly/proprietary/vendor/firmware/vpu20_4v.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.mdt \
-    vendor/xiaomi/mayfly/proprietary/vendor/lib/camera/com.qti.sensormodule.mayfly_ofilm_ov13b10_ultra_i.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mayfly_ofilm_ov13b10_ultra_i.bin \
     vendor/xiaomi/mayfly/proprietary/vendor/lib/camera/com.qti.sensormodule.mayfly_ofilm_ov32b40_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mayfly_ofilm_ov32b40_front.bin \
     vendor/xiaomi/mayfly/proprietary/vendor/lib/camera/com.qti.sensormodule.mayfly_semco_imx707_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mayfly_semco_imx707_wide.bin \
     vendor/xiaomi/mayfly/proprietary/vendor/lib/camera/com.qti.sensormodule.mayfly_sunny_ov13b10_ultra_ii.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.mayfly_sunny_ov13b10_ultra_ii.bin \
@@ -717,8 +716,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mayfly/proprietary/vendor/lib/camx.provider@2.7-legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib/camx.provider@2.7-legacy.so \
     vendor/xiaomi/mayfly/proprietary/vendor/lib/com.qti.settings.fillmore.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.settings.fillmore.so \
     vendor/xiaomi/mayfly/proprietary/vendor/lib/com.qti.settings.sm8450.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.settings.sm8450.so \
-
-    vendor/xiaomi/mayfly/proprietary/vendor/lib64/camera/com.qti.sensormodule.mayfly_ofilm_ov13b10_ultra_i.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mayfly_ofilm_ov13b10_ultra_i.bin \
     vendor/xiaomi/mayfly/proprietary/vendor/lib64/camera/com.qti.sensormodule.mayfly_ofilm_ov32b40_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mayfly_ofilm_ov32b40_front.bin \
     vendor/xiaomi/mayfly/proprietary/vendor/lib64/camera/com.qti.sensormodule.mayfly_semco_imx707_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mayfly_semco_imx707_wide.bin \
     vendor/xiaomi/mayfly/proprietary/vendor/lib64/camera/com.qti.sensormodule.mayfly_sunny_ov13b10_ultra_ii.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mayfly_sunny_ov13b10_ultra_ii.bin \
